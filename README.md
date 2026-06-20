@@ -10,7 +10,7 @@ This project performs basic arithmetic calculations while providing a clean user
 
 Add your GitHub Pages link here:
 
-https://yourusername.github.io/CodeAlpha_Calculator/
+https://rishikarv.github.io/CodeAlpha_Calculator/
 
 ---
 
